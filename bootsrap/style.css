@@ -1,0 +1,25 @@
+*{font-family: 'Roboto', sans-serif;}
+
+body{
+    background-image: url('IMG/onigashima.png');
+    max-width: 1200px; 
+    width: 100%;
+    margin: 0% auto;
+    background-size: contain;
+    background-position: top;
+}
+
+.tamanho{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0% auto;
+}
+
+.ratio iframe{
+    display: block;
+    border: solid;
+    border-radius: 15px;
+}
+.text-center{
+    color: white;
+}
